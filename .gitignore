@@ -1,0 +1,30 @@
+# Data should be submitted separately, not via GitHub
+Data/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# macOS files
+.DS_Store
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Large/generated data files
+*.csv
+*.parquet
+*.pkl
+*.pickle
+*.zip
+*.gz
+*.log
+
+# HTML maps or generated outputs
+*.html
