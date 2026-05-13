@@ -28,8 +28,9 @@ Masterthesis_Hand_In_Joe_Back/
 
 ## Main Files
 
-Note that all graphics included in the text can be found and reproduced in the following notebooks. They are separated by topic.
 NOTE THAT PYTHON VERSION 3.10.13 WAS USED FOR ALL NOTEBOOKS. For some newer Versions some packages might not fully work or install.
+All graphics included in the text can be found and reproduced in the following notebooks. They are separated by topic.
+
 
 - `Code/thesis_EDA.ipynb`: exploratory analysis of GTFS and realtime delay data in the compositional space
 - `Code/Models.ipynb`: main modeling notebook, with applications and results from the SAR modeling
